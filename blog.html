@@ -16,12 +16,18 @@ permalink: /centres-de-formation/
     </div>
   </div>
 </section>
-<!-- {% for post in site.posts %}
-<div class="post-area">
-  <a href="{{ post.url | prepend: site.baseurl }}" class="bold">{{ post.title }}</a>
-  <p class="post-date">{{ post.date | date_to_long_string }}</p>
-  <p>
-    {{ post.content | strip_html | truncatewords: 50 }}
-  </p>
-</div>
-{% endfor %} -->
+<section class="blog">
+  <br><br>
+  <h2 class="text-center">Mes ateliers formations</h2>
+  <div class="container">
+    <div class="post-list" itemscope="" itemtype="http://schema.org/Blog">
+      {% for post in site.posts %}
+
+        {% if post.blog == true %}
+          {% include card.html %}
+        {% endif %}
+
+      {% endfor %}
+    </div>
+  </div>
+</section>

@@ -20,6 +20,26 @@ permalink: /entreprises/
     </div>
 </section>
 
+
+<section class="blog">
+  <div class="container">
+    <br><br>
+    <h2 class="text-center">Mes ateliers entreprises</h2>
+    <div class="post-list" itemscope="" itemtype="http://schema.org/Blog">
+
+      {% for post in site.posts %}
+
+        {% if post.work == true %}
+          {% include card.html %}
+        {% endif %}
+
+      {% endfor %}
+
+      {% include pagination.html %}
+    </div>
+  </div>
+</section>
+
 <!-- Clients Logo Section Start -->
 <section id="clients-logo-section">
   <div class="container">
