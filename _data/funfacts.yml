@@ -1,12 +1,12 @@
 - counter: 20000
-  icon: ion-ios-chatboxes-outline
-  text: Tasses de thé
+  icon: ion-coffee
+  text: Tasses de café
 - counter: 1500
-  icon: ion-ios-glasses-outline
+  icon: ion-ios-wineglass-outline
   text: Mojitos
 - counter: 1200
-  icon: ion-ios-compose-outline
+  icon: ion-card
   text: Agence bancaires suivi
 - counter: 300
-  icon: ion-ios-timer-outline
+  icon: ion-happy-outline
   text: Personnes suivi
