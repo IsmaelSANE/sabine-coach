@@ -6,6 +6,8 @@ meta: "Springfield"
 subtitle: Centres De Formation, Centres D’apprentissage & Écoles De Commerce
 blog: true
 link: Centres de formation
+cardstitle: Mes ateliers formations
+url: ateliers-formations
 ---
 
 # Comment communiquer avec professionnalisme et authenticité dans le monde du travail ?

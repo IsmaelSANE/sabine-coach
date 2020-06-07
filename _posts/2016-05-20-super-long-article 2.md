@@ -9,6 +9,8 @@ subtitle: Mon Engagement
 line: « L’humour renforce notre instinct de survie et sauvegarde notre santé d’esprit »
 author: -Charlie Chaplin-
 link: Mon Engagement
+cardstitle: Mes ateliers
+url: ateliers-engagement
 ---
 
 # Un atelier : « Explorer la Spontanée Attitude » 

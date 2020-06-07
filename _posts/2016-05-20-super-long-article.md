@@ -5,6 +5,8 @@ summary: L’objectif est de libérer par le jeu toute la créativité que nous 
 subtitle: Centres De Formation, Centres D’apprentissage & Écoles De Commerce
 blog: true
 link: Centres de formation
+cardstitle: Mes ateliers formations
+url: ateliers-formations
 ---
 
 # Libérer sa créativité !!!

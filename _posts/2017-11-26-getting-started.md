@@ -9,6 +9,8 @@ subtitle: Entreprises
 line: « Je suis parce que nous sommes et puisque nous sommes je suis »
 author: -Culture XHOSA-
 link: Entreprises
+cardstitle: Mes ateliers entreprises
+url: ateliers-entreprises
 ---
 # Atelier
 # Explorer vos supers pouvoirs commerciaux : Travailler la posture commerciale dans la conquête et la fidélisation des clients

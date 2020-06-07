@@ -9,6 +9,8 @@ subtitle: Entreprises
 line: « Je suis parce que nous sommes et puisque nous sommes je suis »
 author: -Culture XHOSA-
 link: Entreprises
+cardstitle: Mes ateliers entreprises
+url: ateliers-entreprises
 ---
 
 # Explorer vos supers pouvoirs collectifs « UBUNTU » : Travailler l’esprit collaboratif afin d’optimiser les talents de chaque membre d’une équipe.
