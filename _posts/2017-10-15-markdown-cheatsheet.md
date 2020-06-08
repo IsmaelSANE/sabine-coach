@@ -2,7 +2,7 @@
 layout: post
 title: Explorer vos supers pouvoirs collectifs «UBUNTU» 
 summary: Travailler l’esprit collaboratif afin d’optimiser les talents de chaque membre d’une équipe.
-featured-img: emile-perron-190221
+featured-img: atelier-collectif
 categories: Guides
 work: true
 subtitle: Entreprises

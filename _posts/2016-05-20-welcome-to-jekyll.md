@@ -12,6 +12,7 @@ author: -Culture XHOSA-
 link: Entreprises
 cardstitle: Mes ateliers entreprises
 url: ateliers-entreprises
+featured-img: atelier-scene
 ---
 
 # Mon spectacle d’1h dédié au monde de l’entreprise en cours de création…Conférence spectacle

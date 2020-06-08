@@ -9,6 +9,7 @@ author: -Charlie Chaplin-
 link: Mon Engagement
 cardstitle: Mes ateliers
 url: ateliers-engagement
+featured-img: atelier-spectacle
 ---
 
 # Spectacle à thème à définir ensemble selon vos besoins d’animation

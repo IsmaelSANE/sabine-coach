@@ -259,7 +259,7 @@ font header .navbar-default .navbar-nav li a:hover {
 	Feature Start
 --*/
 #feature {
-  background: url("../img/sabine-pro-2.png");
+  background: url("../img/sabine-de-prati-consultante.png");
   background-position: 50% 94px;
   width: 100%;
   display: block;
@@ -286,8 +286,9 @@ font header .navbar-default .navbar-nav li a:hover {
   margin-bottom: 30px;
 }
 #feature p {
-  color: black;
+  color: white;
   margin-bottom: 20px;
+  font-weight: bold;
 }
 #feature .btn-view-works {
   background: #655E7A;

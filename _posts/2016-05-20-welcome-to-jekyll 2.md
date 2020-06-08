@@ -7,6 +7,7 @@ subtitle: Centres De Formation, Centres D’apprentissage & Écoles De Commerce
 link: Centres de formation
 cardstitle: Mes ateliers formations
 url: ateliers-formations
+featured-img: atelier-oral
 
 ---
 

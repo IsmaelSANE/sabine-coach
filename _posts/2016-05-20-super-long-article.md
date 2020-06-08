@@ -7,6 +7,7 @@ blog: true
 link: Centres de formation
 cardstitle: Mes ateliers formations
 url: ateliers-formations
+featured-img: atelier-creativite
 ---
 
 # Libérer sa créativité !!!

@@ -2,7 +2,7 @@
 layout: post
 title: Explorer vos supers pouvoirs commerciaux
 summary: Travailler la posture commerciale dans la conquête et la fidélisation des clients
-featured-img: sleek
+featured-img: atelier-commerciaux
 mathjax: true
 work: true
 subtitle: Entreprises

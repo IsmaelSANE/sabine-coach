@@ -8,6 +8,7 @@ blog: true
 link: Centres de formation
 cardstitle: Mes ateliers formations
 url: ateliers-formations
+featured-img: atelier-communication
 ---
 
 # Comment communiquer avec professionnalisme et authenticité dans le monde du travail ?
