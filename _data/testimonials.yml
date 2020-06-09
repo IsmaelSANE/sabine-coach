@@ -1,15 +1,15 @@
-- name: Rose Ray
-  title: CEO-Themefisher
-  testimonial: "This company created an e-commerce site with the tools to make our business a success, with innovative ideas. We feel that our site has unique elements that make us stand out from the crowd."
-  image: img/item-img1.jpg
-- name: Rose Ray sr.
-  title: CEO-Themefisher
-  testimonial: "An e-commerce site was created by this company with the tools to make our business a success, with innovative ideas. We feel that our site has unique elements that make us stand out from the crowd."
-  image: img/item-img1.jpg
-- name: Rose Ray jr.
-  title: CEO-Themefisher
-  testimonial: "With the tools to make our business a success, this company created an e-commerce site, with innovative ideas. We feel that our site has unique elements that make us stand out from the crowd."
-  image: img/item-img1.jpg
+- name: Véronique BONNET
+  title: Directrice Générale ESME Sudria, Ecole nationale supérieure d’Arts et Métiers/ENSAM
+  testimonial: "« Sabine m’a accompagnée à un tournant important de ma vie professionnelle. Elle m’a aidée à passer un cap, en m’obligeant à faire un pas de côté pour changer mon angle de vue et comprendre ce qui était vraiment important. Je me suis engagée dans la mission que je réalise aujourd’hui à l’ESME Sudria avec beaucoup de plaisir et je sais qu’elle n’y est pas pour rien. Je l’en remercie sincèrement et je lui souhaite beaucoup de réussite dans son projet, qui lui correspond si bien et pour lequel elle a un vrai talent »."
+  image: img/item-img2.png
+- name: Victor MARTIN
+  title: Directeur d’Agence CIC SUD OUEST
+  testimonial: "« Excellente animatrice et formatrice. Dynamique et pétillante, quel plaisir ce fut de travailler avec Sabine. Des compétences et un état d’esprit devenant rare de nos jours et très précieux. J’espère que nos chemins se croiseront à nouveau »."
+  image: img/item-img4.png
+- name: Sandrine DUCORDEAUX
+  title: Chargée de clientèle des professionnels CIC SUD OUEST
+  testimonial: "« J’ai rencontré Sabine lorsqu’elle était Animatrice Commerciale sur le marché de la Téléphonie Mobile au CIC SUD OUEST. Passionnée et passionnante, Sabine a su nous accompagner pour mener à bien nos missions et sortir le meilleur de nous. Le petit plus de Sabine : Son dynamisme, elle a toujours le sourire et ses traits d’humour ponctuent ses animations. Faites lui confiance, vous n’allez pas le regretter."
+  image: img/item-img3.png
 - name: Rose Ray III
   title: CEO-Themefisher
   testimonial: "We feel that our site has unique elements that make us stand out from the crowd. This company created an e-commerce site with the tools to make our business a success, with innovative ideas."
