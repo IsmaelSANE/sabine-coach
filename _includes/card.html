@@ -3,7 +3,7 @@
     {% assign categories = post.categories %}
     <span class="post-card__label">
       {% for category in categories %}
-        <a href="{{site.baseurl}}/categories/#{{category|slugize}}" class="label"> {{ category }} </a>
+        <a href="{{ site.url }}{{site.baseurl}}/categories/#{{category|slugize}}" class="label"> {{ category }} </a>
         {% unless forloop.last %}&nbsp;{% endunless %}
       {% endfor %}
     </span>
@@ -24,7 +24,7 @@
       </figure>
     {% endif %}
   </a>
-  <a class="post-card__inner" href="{{ post.url | relative_url }}/#ateliers">
+  <a class="post-card__inner" href="{{ post.url | relative_url }}/#ateliers" onclick="window.open('{{ post.url | relative_url }}/#ateliers', '_self');">
     <div class="post-card__header">
       <h3>{{ post.title | strip_html | truncate: 50 }}</h3>
       {% assign date_format = site.sleek.date_format | default: "%b %-d, %Y" %}
