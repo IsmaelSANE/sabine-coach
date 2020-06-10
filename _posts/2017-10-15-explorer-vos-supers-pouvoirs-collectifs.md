@@ -17,11 +17,13 @@ url: ateliers-entreprises
 
 Un accompagnement sur mesure dédié à la création ou au renforcement des liens dans une équipe afin d’avancer dans un même objectif.
 
-Deux formules :
-      - Formule sur 6 mois :
-      Avec 2 journées « Team building » et accompagnement individuel du manager (fréquence à fixer avec le manager)
-      - Formule sur 12 mois :
-      Avec 4 journées « Team building » soit une journée par trimestre et accompagnement du manager (fréquence à fixer avec le manager).
+**Deux formules:**
+
+**- Formule sur 6 mois:**
+ Avec 2 journées « Team building » et accompagnement individuel du manager (fréquence à fixer avec le manager)
+
+**- Formule sur 12 mois:**
+ Avec 4 journées « Team building » soit une journée par trimestre et accompagnement du manager (fréquence à fixer avec le manager).
 
 Les plus:
 

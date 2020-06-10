@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Explorer vos supers pouvoirs d’animateur co.
+title: Explorer vos supers pouvoirs d’animateur
 summary: Travailler la posture commerciale dans la conquête et la fidélisation des clients
 featured-img: atelier-animateur
 mathjax: true

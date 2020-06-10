@@ -19,7 +19,7 @@ Un accompagnement collectif (pour les commerciaux) et individuel (pour le manage
 
 Les plus :
 
-1. Optimiser la visibilité des résultats sur le terrain
+1. Optimiser la visibilité des résultats sur le terrain.
 2. Accompagner le manager durant la mission (Fréquence des rendez-vous à fixer avec le  manager) afin d’apporter des outils efficaces et pérennes.
 3. Positionner le manager au cœur du pilotage et de l’action
 4. Passer de l’atelier à l’action : « Je dis, je fais » et « j’ajuste » avec feedbacks sur ce qui fonctionne et sur ce qui peut être amélioré. Point avec le manager et l’équipe

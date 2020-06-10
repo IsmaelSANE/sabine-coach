@@ -2,9 +2,9 @@
   icon: ion-coffee
   text: Tasses de café
 - counter: 1500
-  icon: ion-ios-wineglass-outline
-  text: Mojitos
-- counter: 1200
+  icon: ion-coffee
+  text: Tasses de thé
+- counter: 557
   icon: ion-card
   text: Agence bancaires suivi
 - counter: 300
