@@ -2,8 +2,8 @@
   icon: ion-coffee
   text: Tasses de café
 - counter: 1500
-  icon: ion-coffee
-  text: Tasses de thé
+  icon: true
+  text: Nez de clown utilisés
 - counter: 557
   icon: ion-card
   text: Agence bancaires suivi

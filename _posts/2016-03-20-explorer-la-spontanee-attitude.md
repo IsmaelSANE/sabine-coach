@@ -3,7 +3,6 @@ layout: post
 title: Explorer la Spontanée Attitude
 summary: Un accompagnement collectif pour se connecter ensemble à notre spontanéité
 featured-img: shane-rounce-205187
-categories: [Sample, Guides]
 engagement: true
 subtitle: Mon Engagement
 line: « L’humour renforce notre instinct de survie et sauvegarde notre santé d’esprit »

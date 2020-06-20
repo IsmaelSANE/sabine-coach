@@ -45,7 +45,20 @@ $(document).ready(function(){
         time: 1000
     });
 
+  var all = document.getElementById("all");
+  var clown = document.getElementById("clown");
+  var arlette = document.getElementById("arlette");
 
+  //To hide an element, set the style display property to “none”.
+  document.getElementById("clown").style.display = "none";
+  //To show an element, set the style display property to “block”.
+  //document.getElementById("clown").style.display = "block";
+  arlette.onclick = function(){
+      clown.style.display = "block";
+  }
+  all.onclick = function(){
+      clown.style.display = "none";
+  }
 });
 
 

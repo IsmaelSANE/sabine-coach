@@ -10,10 +10,8 @@ permalink: /
     <div class="row">
       <div class="col-md-10 col-md-offset-2">
         <div class="block">
-          <h1 class="animated fadeInUp">CONSULTANTE EN DEVELOPEMENT &#38;<br> FORMATION</h1>
-          <p class="animated fadeInUp">« Vis comme si tu devais mourir demain.
-            Apprends comme si tu devais vivre toujours »</p>
-            <p>-Gandhi-</p>
+          <h1 class="animated fadeInUp">Formatrice en développement des compétences managériales et commerciales.</h1>
+          <p class="animated fadeInUp">Développer vos ventes et optimiser votre communication.</p>
         </div>
       </div>
     </div>
@@ -28,18 +26,23 @@ permalink: /
           <div class="section-title">
             <h2>A propos</h2>
             <p>
-              Après 18 ans d’expérience dans l’univers bancaire dont 10 ans dans l’animation commerciale, j’ai beaucoup observé, écouté, anticipé, réajusté, voir autrement des situations compliquées dans mon métier d’animatrice et de formatrice.
+              Après 18 ans d’expérience dans l’univers bancaire dont 10 ans dans l’animation commerciale, j’ai beaucoup observé, écouté, anticipé, réajusté, et j’ai pu voir autrement des situations compliquées dans mon métier d’animatrice et de formatrice.
             </p>
-          </div><br>
+          </div>
           <p>
           Mon intention était d’être au plus près des besoins des équipes commerciales d’où ma présence régulière sur le terrain.
           <br>
-          Mon expérience professionnelle dans l’accompagnement des équipes m’a donné l’envie de franchir le fameux petit pas…pour devenir formatrice indépendante dans le domaine commercial.
+          Passionnée par les ressources que nous avons en chacun de nous, par l’alliance des compétences individuelles au service du collectif, et par l’envie de relever toujours plus de défis, j’ai donc souhaité lancer en 2020, mon activité en tant que <strong>formatrice en développement des compétences managériales et commerciales</strong>.
+          </p>
+          <p>
+          Mon originalité : J’utilise des techniques issues du coaching d’équipe, de l’approche narrative, du clown contemporain et de l’improvisation théâtrale.<br>
+          Mes atouts principaux ? L’empathie, et le professionnalisme me permettant ainsi d’être pleinement à l’écoute et de pouvoir m’adapter aux besoins de mes clients.<br>
+          L’humour est également ma marque de fabrique car j’aime animer des formations sérieuses tout en apportant de l’humour et de la bonne humeur aux participants.
           </p>
         </div>
       </div><!-- .col-md-7 close -->
       <div class="col-md-5 col-sm-12">
-        <div class="block">
+        <div class="block" style="margin-top: 100px;">
           <img src="img/sabine-de-prati-coach.png" alt="Img">
         </div>
       </div><!-- .col-md-5 close -->
@@ -79,13 +82,13 @@ permalink: /
         <div class="service-item">
           <i class="icon ion-arrow-graph-up-right"></i>
           <h4>Feedback ventes</h4>
-          <p>Optimiser la visibilité des résultats sur le terrain. Feedbacks sur ce qui fonctionne et sur ce qui peut être amélioré.</p>
+          <p>Optimiser la visibilité des résultats sur le terrain. Feedback sur ce qui fonctionne et sur ce qui peut être amélioré.</p>
         </div>
       </div>
       <div class="col-sm-6 col-md-3">
         <div class="service-item">
           <i class="ion-android-done-all"></i>
-          <h4>Suivi du manageur</h4>
+          <h4>Suivi du manager</h4>
           <p>
           Accompagner le manager durant la mission afin d’apporter des outils efficaces et pérennes
           </p>
@@ -161,11 +164,9 @@ permalink: /
   <div class="container">
     <div class="row">
       <div class="section-title text-center">
-        <h2>En savoir plus sur moi</h2>
+        <h2>En savoir plus sur moi</h2>
         <p>
-        J’utilise des techniques issues du coaching d’équipe, de l’approche narrative, du clown contemporain et de l’improvisation théâtrale.<br>
-        Mes atouts principaux sont <strong>L’empathie</strong> et <strong>le professionnalisme</strong> me permettant ainsi d’être pleinement à l’écoute et de pouvoir m’adapter aux besoins de mes clients.
-        <strong>L’humour</strong> est également ma marque de fabrique car j’aime animer des formations sérieuses tout en apportant de l’humour et de la bonne humeur aux participants.
+          Je suis titulair d'un DU (Diplome Universitaire) en Coaching Entreprise passé à IAE de Bordeaux. Je suis également titulaire d'un Certification Approche coaching narratif passé à La Fabrique Narrative de Mérignac. Je suis actuellement en cours de validation de la Certification F.P.A (Formation Professionnelle pour Adultes). Je pratique le clown contemporain depuis 2014 et l'initiation depuis 2019 à l’improvisation théatrale.
         </p>
       </div>
     </div>
@@ -175,13 +176,23 @@ permalink: /
         <div class="block">
           {% for ff in site.data.funfacts %}
           <ul class="counter-box clearfix">
-            <li>
+            {% if ff.icon == true %}
+            <li style="margin: 12px 0 30px;">
               <div class="block">
-                <i class="{{ ff.icon }}"></i>
+                  <img src="img/clown-icon6.png" alt="IMG">
                 <h4 class="counter">{{ ff.counter }}</h4>
                 <span>{{ ff.text }}</span>
               </div>
             </li>
+            {% else %}
+            <li>
+              <div class="block">
+                  <i class="{{ ff.icon }}"></i>
+                <h4 class="counter">{{ ff.counter }}</h4>
+                <span>{{ ff.text }}</span>
+              </div>
+            </li>
+            {% endif %}
             {% endfor %}
           </ul>
         </div>
@@ -193,7 +204,7 @@ permalink: /
           <div id="testimonial-slider" class="owl-carousel">
             {% for tm in site.data.testimonials %}
             <div>
-                <img src="img/cotation.png" alt="IMG">
+                <h4>Témoignages</h4>
                 <p>{{ tm.testimonial }}</p>
                 <div class="user">
                   <img src="{{ tm.image }}" alt="Pepole">

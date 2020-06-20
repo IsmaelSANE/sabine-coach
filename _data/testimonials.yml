@@ -10,7 +10,11 @@
   title: Chargée de clientèle des professionnels CIC SUD OUEST
   testimonial: "« J’ai rencontré Sabine lorsqu’elle était Animatrice Commerciale sur le marché de la Téléphonie Mobile au CIC SUD OUEST. Passionnée et passionnante, Sabine a su nous accompagner pour mener à bien nos missions et sortir le meilleur de nous. Le petit plus de Sabine : Son dynamisme, elle a toujours le sourire et ses traits d’humour ponctuent ses animations. Faites lui confiance, vous n’allez pas le regretter."
   image: img/item-img3.png
-# - name: Rose Ray III
-#   title: CEO-Themefisher
-#   testimonial: "We feel that our site has unique elements that make us stand out from the crowd. This company created an e-commerce site with the tools to make our business a success, with innovative ideas."
-#   image: img/item-img1.jpg
+- name: Geoffray POUMES
+  title: Chargé de clientèle particuliers CIC SUD OUEST
+  testimonial: "« Sabine a su tirer profit des qualités individuelles de chaque référent téléphonie afin d’obtenir les meilleurs résultats commerciaux possibles pour le groupe. Volontaire, dynamique et positive, elle savait motiver ses équipes et garder leur moral au beau fixe ! »"
+  image: img/item-img5.png
+- name: Christophe GUILLON
+  title: Directeur Général-Groupe CARLE
+  testimonial: "«Sabine de Prati a d’indéniables compétences commerciales et une vraie capacité à concrétiser les ventes. C’est un atout de disposer désormais de son expérience réussie en la matière, de se former, et d’apprendre avec elle, les techniques qui réussissent et qui emportent l’adhésion des clients. Le retour sur investissement est assuré.»"
+  image: img/item-img7.png
