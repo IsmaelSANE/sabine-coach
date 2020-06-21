@@ -16,9 +16,9 @@ px      68    160    252    344    436    528    620    712    */
   #slider, #global-header {
     padding-top: 90px;
     padding-bottom: 100px;
-    background: url("../img/jumbotron.png") no-repeat center center;
+    background: url("../img/jumbotron2.png") no-repeat center center;
     background-size: cover;
-    background-position: center bottom;
+    background-position: top left;
     }
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
@@ -31,9 +31,9 @@ px      68    160    252    344    436    528    620    712    */
   #slider, #global-header {
     padding-top: 90px;
     padding-bottom: 100px;
-    background: url("../img/jumbotron.png") no-repeat center center;
+    background: url("../img/jumbotron2.png") no-repeat center center;
     background-size: cover;
-    background-position: center bottom;
+    background-position: top left;
     }
   #wrapper {
     text-align: center;
@@ -194,9 +194,9 @@ px      68    160    252    */
   #slider, #global-header {
     padding-top: 90px;
     padding-bottom: 100px;
-    background: url("../img/jumbotron.png") no-repeat center center;
+    background: url("../img/jumbotron2.png") no-repeat center center;
     background-size: cover;
-    background-position: center bottom;
+    background-position: top left;
   }
   #slider .block {
     padding-left: 0px;
