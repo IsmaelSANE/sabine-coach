@@ -42,6 +42,10 @@ px      68    160    252    344    436    528    620    712    */
     padding-top: 100px;
     width: 50%;
   }
+
+  .testimonials li {
+    height: 300px;
+  }
   /*--
 	content Start
 --*/
@@ -215,6 +219,12 @@ px      68    160    252    */
   }
   #global-header .block p {
     font-size: 13px;
+  }
+  .testimonials li {
+    height: 580px;
+  }
+  #third {
+    height: 250px;
   }
   /*--
 	wrapper Start

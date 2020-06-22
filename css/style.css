@@ -175,10 +175,14 @@ h3 {
   background-color: white;
   margin: 50px 10px 10px 10px;
   width: calc((100% - 55px) / 2);
-  height: 200px;
+  height: 280px;
   border: solid 1px #bdbdbd;
   position: relative;
   transition: ease-in-out .3s;
+}
+
+#third {
+  height: 200px;
 }
 
 .testimonials li img {
