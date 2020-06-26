@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Explorer vos supers pouvoirs collectifs «UBUNTU» 
+title: Explorer vos supers pouvoirs collectifs
 summary: Travailler l’esprit collaboratif afin d’optimiser les talents de chaque membre d’une équipe.
 featured-img: atelier-collectif
 categories: Guides
@@ -13,7 +13,7 @@ cardstitle: Mes ateliers entreprises
 url: ateliers-entreprises
 ---
 
-# Explorer vos supers pouvoirs collectifs *[«UBUNTU»](http://aefjn.org/fr/ubuntu-une-culture-africaine-de-solidarite-humaine/)*: Travailler l’esprit collaboratif afin d’optimiser les talents de chaque membre d’une équipe.
+# Explorer vos supers pouvoirs collectifs : Travailler l’esprit collaboratif afin d’optimiser les talents de chaque membre d’une équipe.
 
 Un accompagnement sur mesure dédié à la création ou au renforcement des liens dans une équipe afin d’avancer dans un même objectif.
 
