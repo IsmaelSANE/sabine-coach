@@ -20,8 +20,8 @@
 
 title: sabinedeprati.com
 email: contact@sabinedeprati.com
-description: >- # this means to ignore newlines until "baseurl:"
-   J’utilise des techniques issues du coaching d’équipe, de l’approche narrative, du clown contemporain et de l’improvisation théâtrale. Mes atouts principaux sont L’empathie et le professionnalisme me permettant ainsi d’être pleinement à l’écoute et de pouvoir m’adapter aux besoins de mes clients. L’humour est également ma marque de fabrique car j’aime animer des formations sérieuses tout en apportant de l’humour et de la bonne humeur aux participants.
+description: J’utilise des techniques issues du coaching d’équipe, de l’approche narrative, du clown contemporain et de l’improvisation théâtrale. Mes atouts principaux sont L’empathie et le professionnalisme, me permettant ainsi d’être pleinement à l’écoute, et de pouvoir m’adapter aux besoins de mes clients. L’humour est également ma marque de fabrique car j’aime animer des formations sérieuses tout en apportant de l’humour et de la bonne humeur aux participants.
+   #J’utilise des techniques issues du coaching d’équipe, de l’approche narrative, du clown contemporain et de l’improvisation théâtrale. Mes atouts principaux sont L’empathie et le professionnalisme me permettant ainsi d’être pleinement à l’écoute et de pouvoir m’adapter aux besoins de mes clients. L’humour est également ma marque de fabrique car j’aime animer des formations sérieuses tout en apportant de l’humour et de la bonne humeur aux participants.
 #baseurl: "/sabine-coach" # the subpath of your site, e.g. /blog
 #url: "https://ismaelsane.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #baseurl: "" # the subpath of your site, e.g. /blog
