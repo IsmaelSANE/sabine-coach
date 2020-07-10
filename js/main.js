@@ -61,6 +61,14 @@ $(document).ready(function(){
   }
 });
 
-
+// $.ajax({
+//   dataType: 'jsonp',
+//   url: "http://getsimpleform.com/messages/ajax?form_api_token=a8a9d2025c54cf91c61028d2c20cd8b7",
+//   data: $("#registerSubmit").serialize()
+// }).done(function() {
+//   //callback which can be used to show a thank you message
+//   //and reset the form
+//   alert("Merci, votre message a été envoyé");
+// });
 
 
