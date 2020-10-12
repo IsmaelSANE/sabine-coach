@@ -13,7 +13,7 @@ cardstitle: Mes ateliers entreprises
 url: ateliers-entreprises
 ---
 # Atelier
-# Explorer vos supers pouvoirs commerciaux : Travailler la posture commerciale dans la conquête et la fidélisation des clients
+# Explorer vos supers pouvoirs commerciaux : Travailler la posture d’animateur en s’adaptant aux publics visés, et aux différents formats d’animation.
 
 Un accompagnement collectif (pour les commerciaux) et individuel (pour le manager) sur mesure pour une durée de 12 mois minimum afin d’avoir un suivi opérationnel et ainsi mesurer l’efficacité de l’accompagnement collectif sur la durée.
 

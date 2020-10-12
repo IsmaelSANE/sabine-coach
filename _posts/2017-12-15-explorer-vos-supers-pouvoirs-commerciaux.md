@@ -13,7 +13,7 @@ cardstitle: Mes ateliers entreprises
 url: ateliers-entreprises
 ---
 # Atelier
-# Explorer vos supers pouvoirs d’animateur (-trice) en animation commerciale, en réunion, en formation
+# Explorer vos supers pouvoirs d’animateur (-trice) en animation commerciale, en réunion, en formation.
 
 Un accompagnement collectif sur un format d’une journée minimum afin d’explorer vos talents d’animateur (-trice) en mode présentiel et distanciel.
 
