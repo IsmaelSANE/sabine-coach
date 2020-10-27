@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Explorer vos supers pouvoirs commerciaux
-summary: Travailler la posture d’animateur en s’adaptant aux publics visés, et aux différents formats d’animation.
+summary: Travailler la posture commerciale dans la conquête et la fidélisation des clients.
 featured-img: atelier-commerciaux
 mathjax: true
 work: true
