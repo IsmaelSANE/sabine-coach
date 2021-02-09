@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Explorer vos supers pouvoirs d’animateur
-summary: Travailler la posture d’animateur en s’adaptant aux publics visés, et aux différents formats d’animation.
+summary: Travailler la posture d’animateur en s’adaptant aux publics visés, et aux différents formats d’animation (présentiel et distanciel).
 featured-img: atelier-animateur
 mathjax: true
 work: true
