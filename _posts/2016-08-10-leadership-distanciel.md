@@ -3,7 +3,7 @@ layout: post
 title: Explorer vos supers pouvoirs en télétravail
 summary: Accompagner vos équipes de manager de proximité à développer leurs compétences dans l’animation des équipes à distance.
 featured-img: latelier-distanciel
-work: true
+work: false
 subtitle: Entreprises
 line: « Je suis parce que nous sommes et puisque nous sommes je suis »
 author: -Culture XHOSA-
