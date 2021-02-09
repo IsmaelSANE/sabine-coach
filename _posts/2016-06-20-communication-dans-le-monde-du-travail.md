@@ -4,7 +4,7 @@ title: Communication dans le monde du travail 
 summary: Un accompagnement collectif dont l’objectif est de préparer les apprenants à travailler leur posture en entreprise tout en conservant leur authenticité.
 meta: "Springfield"
 subtitle: Centres De Formation, Centres D’apprentissage & Écoles De Commerce
-blog: true
+blog: false
 link: Centres de formation
 cardstitle: Mes ateliers formations
 url: ateliers-formations
