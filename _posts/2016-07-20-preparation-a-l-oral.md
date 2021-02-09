@@ -4,7 +4,7 @@ blog: true
 title: Préparation à l’oral (collectif / individuel)
 summary: L’objectif est de préparer les apprenants à optimiser leur posture lors des examens à l’oral, lors des entretiens d’embauche…
 subtitle: Centres De Formation, Centres D’apprentissage & Écoles De Commerce
-link: Centres de formation
+link: Ecoles de commerce
 cardstitle: Mes ateliers formations
 url: ateliers-formations
 featured-img: atelier-oral
