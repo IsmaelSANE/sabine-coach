@@ -7,7 +7,7 @@ engagement: true
 subtitle: Mon Engagement
 line: « L’humour renforce notre instinct de survie et sauvegarde notre santé d’esprit »
 author: -Charlie Chaplin-
-link: Mon Engagement
+link: Associations
 cardstitle: Mes ateliers
 url: ateliers-engagement
 featured-img: atelier-liberer
