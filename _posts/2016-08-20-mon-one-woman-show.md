@@ -10,7 +10,7 @@ subtitle: Entreprises
 line: « Je suis parce que nous sommes et puisque nous sommes je suis »
 author: -Culture XHOSA-
 link: Associations
-cardstitle: Mes ateliers entreprises
+cardstitle: Mes ateliers
 url: ateliers-entreprises
 featured-img: atelier-scene
 ---
