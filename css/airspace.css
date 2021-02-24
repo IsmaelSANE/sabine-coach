@@ -512,11 +512,11 @@ font header .navbar-default .navbar-nav li a:hover {
   -ms-transform: translate(0%, -50%);
   transform: translate(0%, -50%);
 }
-#portfolio-work .block .portfolio-contant ul li a {
+#portfolio-work .block .portfolio-contant ul li {
   display: block;
   color: #fff;
 }
-#portfolio-work .block .portfolio-contant ul li a h2 {
+#portfolio-work .block .portfolio-contant ul li h2 {
   font-size: 22px;
   text-transform: uppercase;
   letter-spacing: 1px;
